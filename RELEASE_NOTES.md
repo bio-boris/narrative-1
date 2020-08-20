@@ -3,7 +3,7 @@ The Narrative Interface allows users to craft KBase Narratives using a combinati
 
 This is built on the Jupyter Notebook v6.0.2 (more notes will follow).
 
-### Version 4.3.0
+### Version 4.3.0123
 - SCT-2664 - Show the app cell status when in a collapsed state.
 - Added an "Info" tab to all app cells with app information.
 - Updated links to new KBase home page and docs site.
